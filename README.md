@@ -1,8 +1,8 @@
-<h2 align="left">About Me</h2>
+<center><h2 align="left">🌟 Olá,  sou Déborah Camilly! 🚀 </h2></center>
 
 ###
 
-<p align="left">- Estudante de Engenharia da Computação;<br>- Desenvolvedora Web;<br>- Estudando Python.</p>
+<p>Desde que comecei minha jornada na computação, me encantei pelo poder de transformar ideias em realidade através do código. Adoro explorar sistemas embarcados, brincar com hardware e construir aplicações para a web. </p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="center">Techs</h2>
+
 
 ###
 
@@ -32,12 +32,11 @@
 
 ###
 
-<h2 align="center">Social Media</h2>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/deborah-camilly-47b25328a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+  <a href="www.linkedin.com/in/deborah-leal-47b25328a" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/camilly_deborahh/" target="_blank">
@@ -51,8 +50,7 @@
   </a>
 </div>
 
-###
+<center><h3>🛠 Ferramentas & Frameworks:  </h3>
+  <p>💻 VS Code | 🖥️ Microchip Studio | 📊 Excel | ⚙️ ATmega328P | 🔗 Git & GitHub  </p></center>
 
-<img src="https://raw.githubusercontent.com/deborahleal/deborahleal/output/snake.svg" alt="Snake animation" />
 
-###
