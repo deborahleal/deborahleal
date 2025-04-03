@@ -21,13 +21,7 @@
 
 ###
 
-<h3 align="left">🚀 Contribuições🚀</h3>
 
-###
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deborahleal&radius=16&theme=modern-lilac&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-
-##
 
 <h3 align="left">🚀 Tech & Tools 🔧</h3>
 
